@@ -1,0 +1,9 @@
+.memberCard {
+  padding: 20px;
+  background-color: aqua;
+  width: 200px;
+}
+.member-sub-heading {
+  color: hsl(271, 100%, 58%);
+  font-weight: bold;
+}
